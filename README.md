@@ -16,3 +16,4 @@ Life plan step one: gradute college
 Life Plan Step Two: get my MD/PhD
 Life Plan Step Three: Maybe get a JD or MPH after residency
 Life Plan Step Four: Move to New York and find a partner
+Life Plan Step Five: Practice medicine and travel when I can
