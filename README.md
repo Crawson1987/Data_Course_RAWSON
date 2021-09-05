@@ -12,3 +12,4 @@ I forgot to add that when you activate conda you need to say base at the end
 in terminal you just hit enter to move forward
 In RStuido you have to hit command enter to move forward
 The notes file on my computer has my R command cheat sheet
+Life plan step one: gradute college
