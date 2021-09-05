@@ -15,3 +15,4 @@ The notes file on my computer has my R command cheat sheet
 Life plan step one: gradute college
 Life Plan Step Two: get my MD/PhD
 Life Plan Step Three: Maybe get a JD or MPH after residency
+Life Plan Step Four: Move to New York and find a partner
