@@ -5,3 +5,4 @@
 microbiology is sooo cool
 “microbiology is cool”
 microbiology is cool
+This is the test that let me remove conda from my computer
