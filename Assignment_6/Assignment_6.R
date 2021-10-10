@@ -1,0 +1,6 @@
+library(tidyverse)
+library(tidyr)
+library(dplyr)
+library(janitor)
+library(readxl)
+read_csv("../../Data/BioLog_Plate_Data.csv")

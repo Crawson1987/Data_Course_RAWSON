@@ -1,0 +1,18 @@
+
+					Final Project Idea
+
+1. For my final project I hope to use existing fungal microbiome data and compare it using a custom database and the super computer at the University of Utah. 
+
+
+2. I will find the data by looking for articles or data sets on NCBI/sra. I will try to find as many as possible, but I hope to find at least twenty. 
+
+3. Code that will generate plot:
+
+library(vioplot)
+x1 <- mtcars$mpg[mtcars$cyl==4]
+x2 <- mtcars$mpg[mtcars$cyl==6]
+x3 <- mtcars$mpg[mtcars$cyl==8]
+vioplot(x1, x2, x3, names=c("4% var", "6% var", "8% var"), 
+        col="gold")
+title("Fungal Diversity: A Comparative Approach")
+
